@@ -1,0 +1,166 @@
+body
+{
+    text-align: center;
+    background: black;
+	background-repeat:no-repeat;
+}
+
+h1{
+   text-shadow:2px 2px #F8BBD0;
+  font-size:20px;
+}
+
+a{
+    text-decoration:none;
+    color: yellowgreen;
+  }
+p{
+  font-size:18px;
+  color:#6A1B9A;
+}
+
+h2{
+    
+    text-align: left;
+  font-size:50px;
+  color:greenyellow;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+
+
+h3{
+    
+  text-align: left;
+  font-size:30px;
+  color:yellow;
+}
+h4{
+    
+  text-align: left;
+  font-size:30px;
+  color:greenyellow;
+}
+h5{
+    
+  text-align: left;
+  font-size:30px;
+  color:greenyellow;
+}
+
+
+
+.links:hover{
+    font-size: 25px;
+    text-decoration: underline;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    color: white;
+    text-shadow: none;
+}
+
+div {
+    display: block;
+}
+}
+.icon-bar{
+    
+    color:greenyellow;
+}
+
+.announcement
+{
+ background-color:#337ab7;
+ width: 100%;
+ height: 30px;
+}
+
+#marqueeStyle
+{
+  width:100%;
+  direction:right;
+  height:100px;
+  color: beige;
+  font-size:120%;
+}
+.image
+{
+    width: 1500px;
+    height: 1000px;
+}
+
+.travel_mainDiv
+{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+  height:300px;
+} 
+
+.travel_mainDiv hr
+{
+    width: 100%; 
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin-left: 20px;
+}
+
+
+#achievementsID{
+ padding-bottom: 10px;
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
+
+#marqueeStyle{
+  width:100%;
+  direction:right;
+  height:100px;
+  color: beige;
+  font-size:120%;
+}
+h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
